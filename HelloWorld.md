@@ -1,5 +1,5 @@
 ## This is a Markdown file
-datasciencecoursera
+the name of the repo is datasciencecoursera
 ===================
 
-For the assignment
+this is the repo description
